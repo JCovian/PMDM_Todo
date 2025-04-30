@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Productos</string>
+    <string name="ingrese_codigo">Ingrese el código del producto</string>
+    <string name="categoria">Categoria</string>
+    <string name="ingrese_descripcion">Ingrese descripción</string>
+    <string name="ingrese_precio">Ingrese precio</string>
+    <string name="alta">ALTA</string>
+    <string name="consulta_codigo">CONSULTA POR CÓDIGO</string>
+    <string name="consulta_descripcion">CONSULTA POR DESCRIPCIÓN</string>
+    <string name="baja">BAJA</string>
+    <string name="modificacion">MODIFICACIÓN</string>
+    <string name="productos">PRODUCTOS</string>
+    <string name="error">Error</string>
+    <string name="codigo_obligatorio">El código es obligatorio</string>
+    <string name="no_se_puede_eliminar">No se puede eliminar el producto con código </string>
+    <string name="porque_no_existe"> porque no existe</string>
+    <string name="producto_eliminado">Se eliminó el producto correctamente</string>
+    <string name="producto_no_modificable">No se puede modificar el producto con código </string>
+    <string name="mofificado_correctamente">Se modificó el producto correctamente</string>
+    <string name="no_existen_productos">No existen productos</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="guion">-</string>
+    <string name="imagen_categoria">Imagen de la categoria</string>
+
+    <string-array name="categorias_array">
+        <item>Carne</item>
+        <item>Verdura</item>
+        <item>Fruta</item>
+        <item>Otros</item>
+    </string-array>
+
+</resources>

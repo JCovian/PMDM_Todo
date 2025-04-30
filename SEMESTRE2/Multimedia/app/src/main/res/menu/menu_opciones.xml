@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reproducirSonido"
+        android:title="@string/reproducirSonido" />
+    <item android:id="@+id/reproducirAudio"
+        android:title="@string/reproducirAudio" />
+    <item android:id="@+id/reproducirVideo"
+        android:title="@string/reproducirVideo" />
+    <item android:id="@+id/salir"
+
+        android:title="@string/salir" />
+</menu>

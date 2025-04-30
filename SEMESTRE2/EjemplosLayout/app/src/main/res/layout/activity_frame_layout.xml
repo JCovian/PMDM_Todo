@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FrameLayout">
+
+    <View
+        android:id="@+id/cuadro1"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="top|start"
+        android:background="@color/color1" />
+
+    <View
+        android:id="@+id/cuadro2"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center|top"
+        android:background="@color/color2" />
+
+    <View
+        android:id="@+id/cuadro3"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="top|end"
+        android:background="@color/color3" />
+
+    <View
+        android:id="@+id/cuadro4"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center|start"
+        android:background="@color/color4" />
+
+    <View
+        android:id="@+id/cuadro5"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center|center_horizontal"
+        android:background="@color/color5" />
+
+    <View
+        android:id="@+id/cuadro6"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center|end"
+        android:background="@color/color6" />
+
+    <View
+        android:id="@+id/cuadro7"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="bottom|start"
+        android:background="@color/color7" />
+
+    <View
+        android:id="@+id/cuadro8"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@color/color8" />
+
+    <View
+        android:id="@+id/cuadro9"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="bottom|end"
+        android:background="@color/color9" />
+
+</FrameLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Multimedia</string>
+    <string name="reproducirSonido" translatable="false">Reproducir sonido</string>
+    <string name="reproducirAudio" translatable="false">Reproducir audio</string>
+    <string name="reproducirVideo" translatable="false">Reproducir video</string>
+    <string name="salir" translatable="false">Salir</string>
+    <string name="seleccionaOpcion" translatable="false">Selecciona una opción:</string>
+    <string name="reproducirSonidoMay" translatable="false">REPRODUCIR SONIDO</string>
+    <string name="reproducirAudioMay" translatable="false">REPRODUCIR AUDIO</string>
+    <string name="reproducirVideoMay" translatable="false">REPRODUCIR VIDEO</string>
+    <string name="salirMay" translatable="false">SALIR</string>
+    <string name="seleccioneAudio" translatable="false">Seleccione el audio que desea escuchar</string>
+    <string name="cancion1" translatable="false">Canción 1</string>
+    <string name="cancion2" translatable="false">Canción 2</string>
+    <string name="cancion3" translatable="false">Canción 3</string>
+    <string name="play" translatable="false">Play</string>
+    <string name="pause" translatable="false">Pause</string>
+    <string name="stop" translatable="false">Stop</string>
+</resources>
